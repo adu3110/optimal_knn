@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584302213461.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3572441757",
+    "id" : "7FC2375E",
+    "lastKnownWriteTime" : 1584302520,
+    "last_content_update" : 1584302520630,
+    "path" : "~/Desktop/OptimalKNN/R/islr.R",
+    "project_path" : "R/islr.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

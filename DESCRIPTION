@@ -1,0 +1,15 @@
+Package: OptimalKNN
+Type: Package
+Title: Optimal K value for k Nearest Neighbor algorithm
+Version: 0.1.0
+Author: Aditi Tiwari
+Maintainer: Aditi Tiwari <aditi.jec31@gmail.com>
+Description: Finding the optimal k value for k nearest neighbor binary classification.
+    It uses the assumption that the labels are generated from a poisson on binomial distribution.
+    Reference: Hall, P., Park, B.U., Samworth, R.J., CHOICE OF NEIGHBOR ORDER IN NEAREST-NEIGHBOR CLASSIFICATION
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Biarch: true
+NeedsCompilation: no
+Packaged: 2020-03-14 14:57:06 UTC; Rajesh Bhat
